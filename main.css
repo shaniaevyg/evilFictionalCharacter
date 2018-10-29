@@ -1,0 +1,32 @@
+body{
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/81BdXuVeEvL.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+p{
+	font-family: 'EB Garamond', serif;
+	color:#ffd966;
+	font-size: 20px;
+
+}
+h1{
+	font-family: 'Charmonman', cursive; 
+	font-size: 50px; 
+	color:#ffffb3;
+	text-align:center;
+}
+#main{
+width: 800px;
+height: 1000px;
+margin: auto;
+border: #ffd966 ridge 4px;
+background-color: #4f4f4f;
+}
+#footer{
+	font-family: 'Charmonman', cursive;
+	color:#ffd966;
+	font-size: 20px;
+
+}
